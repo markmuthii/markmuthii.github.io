@@ -45,7 +45,7 @@ plugins: [jekyll-paginate]
 safe: false
 lsi: false
 username: markmuthii
-repo: jasper
+repo: markmuthii.github.io
 branch: main
 relative_source: ../jasper/
 destination: ../jasper-pages/
