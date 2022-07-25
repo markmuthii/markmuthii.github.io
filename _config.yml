@@ -7,8 +7,8 @@ paginate: 5
 language: "en-uk"
 
 # Website info
-name: "Finding The Way Home"
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: "Kram Codes"
+description: "A public development diary by Mark Muthii."
 
 short_url: "mark.muthii.me"
 google_analytics: UA-69281367-1
@@ -47,8 +47,8 @@ lsi: false
 username: markmuthii
 repo: markmuthii.github.io
 branch: main
-relative_source: ../jasper/
-destination: ../jasper-pages/
+relative_source: ./
+destination: ./
 production_url: https://mark.muthii.me
 source_url: https://github.com/markmuthii/markmuthii.github.io/
 
